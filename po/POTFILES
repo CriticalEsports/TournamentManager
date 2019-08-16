@@ -1,0 +1,5 @@
+data/org.gnome.Tournamentmanager.desktop.in
+data/org.gnome.Tournamentmanager.appdata.xml.in
+data/org.gnome.Tournamentmanager.gschema.xml
+src/window.uisrc/main.js
+src/window.js

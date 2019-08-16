@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="tournamentmanager">
+	<schema id="org.gnome.Tournamentmanager" path="/org/gnome/Tournamentmanager/">
+	</schema>
+</schemalist>
